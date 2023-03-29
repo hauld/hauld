@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[Connect me](https://linktr.ee/hau_le)
 <!--
 **hauld/hauld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
